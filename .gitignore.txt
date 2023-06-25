@@ -1,2 +1,3 @@
-.log
-/unwanted
+!*.sln
+!*.csproj
+!*.cs
