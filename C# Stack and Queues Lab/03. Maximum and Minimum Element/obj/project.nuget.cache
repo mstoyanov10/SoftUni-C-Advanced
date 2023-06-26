@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P4muw2QWGkGExUa26U+7tq5+jl8FjGPs+zG7sxpBZYPKftVS3/nw2vTRZ8A7KHagu2xgeN3wlEOuHbYxl/UB3g==",
+  "success": true,
+  "projectFilePath": "C:\\SoftUni\\C# Advanced Januray 2023\\1.Stacks and Queues\\Excercise\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

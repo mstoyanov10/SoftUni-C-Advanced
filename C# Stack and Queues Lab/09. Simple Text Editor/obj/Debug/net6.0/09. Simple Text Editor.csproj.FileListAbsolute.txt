@@ -1,0 +1,15 @@
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\09. Simple Text Editor\bin\Debug\net6.0\09. Simple Text Editor.exe
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\09. Simple Text Editor\bin\Debug\net6.0\09. Simple Text Editor.deps.json
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\09. Simple Text Editor\bin\Debug\net6.0\09. Simple Text Editor.runtimeconfig.json
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\09. Simple Text Editor\bin\Debug\net6.0\09. Simple Text Editor.dll
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\09. Simple Text Editor\bin\Debug\net6.0\09. Simple Text Editor.pdb
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\09. Simple Text Editor\obj\Debug\net6.0\09. Simple Text Editor.csproj.AssemblyReference.cache
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\09. Simple Text Editor\obj\Debug\net6.0\09. Simple Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\09. Simple Text Editor\obj\Debug\net6.0\09. Simple Text Editor.AssemblyInfoInputs.cache
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\09. Simple Text Editor\obj\Debug\net6.0\09. Simple Text Editor.AssemblyInfo.cs
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\09. Simple Text Editor\obj\Debug\net6.0\09. Simple Text Editor.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\09. Simple Text Editor\obj\Debug\net6.0\09. Simple Text Editor.dll
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\09. Simple Text Editor\obj\Debug\net6.0\refint\09. Simple Text Editor.dll
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\09. Simple Text Editor\obj\Debug\net6.0\09. Simple Text Editor.pdb
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\09. Simple Text Editor\obj\Debug\net6.0\09. Simple Text Editor.genruntimeconfig.cache
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\09. Simple Text Editor\obj\Debug\net6.0\ref\09. Simple Text Editor.dll

@@ -1,0 +1,14 @@
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\01. Basic Stack Operations\bin\Debug\netcoreapp3.1\01. Basic Stack Operations.exe
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\01. Basic Stack Operations\bin\Debug\netcoreapp3.1\01. Basic Stack Operations.deps.json
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\01. Basic Stack Operations\bin\Debug\netcoreapp3.1\01. Basic Stack Operations.runtimeconfig.json
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\01. Basic Stack Operations\bin\Debug\netcoreapp3.1\01. Basic Stack Operations.runtimeconfig.dev.json
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\01. Basic Stack Operations\bin\Debug\netcoreapp3.1\01. Basic Stack Operations.dll
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\01. Basic Stack Operations\bin\Debug\netcoreapp3.1\01. Basic Stack Operations.pdb
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\01. Basic Stack Operations\obj\Debug\netcoreapp3.1\01. Basic Stack Operations.csproj.AssemblyReference.cache
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\01. Basic Stack Operations\obj\Debug\netcoreapp3.1\01. Basic Stack Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\01. Basic Stack Operations\obj\Debug\netcoreapp3.1\01. Basic Stack Operations.AssemblyInfoInputs.cache
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\01. Basic Stack Operations\obj\Debug\netcoreapp3.1\01. Basic Stack Operations.AssemblyInfo.cs
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\01. Basic Stack Operations\obj\Debug\netcoreapp3.1\01. Basic Stack Operations.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\01. Basic Stack Operations\obj\Debug\netcoreapp3.1\01. Basic Stack Operations.dll
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\01. Basic Stack Operations\obj\Debug\netcoreapp3.1\01. Basic Stack Operations.pdb
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\01. Basic Stack Operations\obj\Debug\netcoreapp3.1\01. Basic Stack Operations.genruntimeconfig.cache

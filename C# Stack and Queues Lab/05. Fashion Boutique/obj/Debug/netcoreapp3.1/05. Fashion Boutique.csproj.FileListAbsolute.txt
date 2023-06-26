@@ -1,0 +1,14 @@
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\05. Fashion Boutique\bin\Debug\netcoreapp3.1\05. Fashion Boutique.exe
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\05. Fashion Boutique\bin\Debug\netcoreapp3.1\05. Fashion Boutique.deps.json
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\05. Fashion Boutique\bin\Debug\netcoreapp3.1\05. Fashion Boutique.runtimeconfig.json
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\05. Fashion Boutique\bin\Debug\netcoreapp3.1\05. Fashion Boutique.runtimeconfig.dev.json
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\05. Fashion Boutique\bin\Debug\netcoreapp3.1\05. Fashion Boutique.dll
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\05. Fashion Boutique\bin\Debug\netcoreapp3.1\05. Fashion Boutique.pdb
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.csproj.AssemblyReference.cache
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.AssemblyInfoInputs.cache
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.AssemblyInfo.cs
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.dll
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.pdb
+C:\SoftUni\C# Advanced Januray 2023\1.Stacks and Queues\Excercise\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.genruntimeconfig.cache

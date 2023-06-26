@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zVPMJQ4FR7WxYDvvqwxcHaY2fC40P1HzWp9U98v1neKsh+HYYPGNy3tYwU4DGlEefULIhuwdZTa+9FcfKry8jQ==",
+  "success": true,
+  "projectFilePath": "C:\\SoftUni\\C# Advanced Januray 2023\\1.Stacks and Queues\\Excercise\\02. Basic Queue Operations\\02. Basic Queue Operations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

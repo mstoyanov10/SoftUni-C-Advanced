@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MNKlQ9ZjFSHWNby75QYskyvQTb07GbVkbkgkSQhtygD28a3s0BN3Hu+C3K4WVJAF7ZZMZ/dskPV4DF25lmZJ1Q==",
+  "success": true,
+  "projectFilePath": "C:\\SoftUni\\C# Advanced Januray 2023\\1.Stacks and Queues\\Excercise\\07. Truck Tour\\07. Truck Tour.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

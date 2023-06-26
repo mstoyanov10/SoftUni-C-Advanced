@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ap0+NWvx/rd5wqegkp/ZDW9ISz3zTnB2qw7vcJfJn1k9Dy08XMmgSIkg7HyCF6/vO2wWXZWWSHe8osJ/1cNkyQ==",
+  "success": true,
+  "projectFilePath": "C:\\SoftUni\\C# Advanced Januray 2023\\1.Stacks and Queues\\Excercise\\Stacks and Queues Excercise\\Stacks and Queues Excercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

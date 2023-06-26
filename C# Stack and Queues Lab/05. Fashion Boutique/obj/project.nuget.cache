@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s+SoFQ/8cfQHDTj/kZWdkID1J3g/PwW/QM3LbzIAev2scLalbWy2nHFF50a0hz1FG4ttc9fq49GadXkqDoPc9Q==",
+  "success": true,
+  "projectFilePath": "C:\\SoftUni\\C# Advanced Januray 2023\\1.Stacks and Queues\\Excercise\\05. Fashion Boutique\\05. Fashion Boutique.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
