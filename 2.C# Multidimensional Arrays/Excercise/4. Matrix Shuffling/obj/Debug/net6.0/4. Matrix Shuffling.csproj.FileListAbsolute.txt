@@ -1,0 +1,15 @@
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\4. Matrix Shuffling\bin\Debug\net6.0\4. Matrix Shuffling.exe
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\4. Matrix Shuffling\bin\Debug\net6.0\4. Matrix Shuffling.deps.json
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\4. Matrix Shuffling\bin\Debug\net6.0\4. Matrix Shuffling.runtimeconfig.json
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\4. Matrix Shuffling\bin\Debug\net6.0\4. Matrix Shuffling.dll
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\4. Matrix Shuffling\bin\Debug\net6.0\4. Matrix Shuffling.pdb
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\4. Matrix Shuffling\obj\Debug\net6.0\4. Matrix Shuffling.csproj.AssemblyReference.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\4. Matrix Shuffling\obj\Debug\net6.0\4. Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\4. Matrix Shuffling\obj\Debug\net6.0\4. Matrix Shuffling.AssemblyInfoInputs.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\4. Matrix Shuffling\obj\Debug\net6.0\4. Matrix Shuffling.AssemblyInfo.cs
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\4. Matrix Shuffling\obj\Debug\net6.0\4. Matrix Shuffling.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\4. Matrix Shuffling\obj\Debug\net6.0\4. Matrix Shuffling.dll
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\4. Matrix Shuffling\obj\Debug\net6.0\refint\4. Matrix Shuffling.dll
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\4. Matrix Shuffling\obj\Debug\net6.0\4. Matrix Shuffling.pdb
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\4. Matrix Shuffling\obj\Debug\net6.0\4. Matrix Shuffling.genruntimeconfig.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\4. Matrix Shuffling\obj\Debug\net6.0\ref\4. Matrix Shuffling.dll

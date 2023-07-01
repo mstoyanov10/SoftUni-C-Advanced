@@ -1,0 +1,15 @@
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\1. Diagonal Difference\bin\Debug\net6.0\1. Diagonal Difference.exe
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\1. Diagonal Difference\bin\Debug\net6.0\1. Diagonal Difference.deps.json
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\1. Diagonal Difference\bin\Debug\net6.0\1. Diagonal Difference.runtimeconfig.json
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\1. Diagonal Difference\bin\Debug\net6.0\1. Diagonal Difference.dll
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\1. Diagonal Difference\bin\Debug\net6.0\1. Diagonal Difference.pdb
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.csproj.AssemblyReference.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.AssemblyInfoInputs.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.AssemblyInfo.cs
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.dll
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\1. Diagonal Difference\obj\Debug\net6.0\refint\1. Diagonal Difference.dll
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.pdb
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.genruntimeconfig.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\1. Diagonal Difference\obj\Debug\net6.0\ref\1. Diagonal Difference.dll

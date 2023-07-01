@@ -1,0 +1,15 @@
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\1. Sum Matrix Elements\bin\Debug\net6.0\1va Zadacha.exe
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\1. Sum Matrix Elements\bin\Debug\net6.0\1va Zadacha.deps.json
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\1. Sum Matrix Elements\bin\Debug\net6.0\1va Zadacha.runtimeconfig.json
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\1. Sum Matrix Elements\bin\Debug\net6.0\1va Zadacha.dll
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\1. Sum Matrix Elements\bin\Debug\net6.0\1va Zadacha.pdb
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net6.0\1va Zadacha.csproj.AssemblyReference.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net6.0\1va Zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net6.0\1va Zadacha.AssemblyInfoInputs.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net6.0\1va Zadacha.AssemblyInfo.cs
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net6.0\1va Zadacha.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net6.0\1va Zadacha.dll
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net6.0\refint\1va Zadacha.dll
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net6.0\1va Zadacha.pdb
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net6.0\1va Zadacha.genruntimeconfig.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net6.0\ref\1va Zadacha.dll

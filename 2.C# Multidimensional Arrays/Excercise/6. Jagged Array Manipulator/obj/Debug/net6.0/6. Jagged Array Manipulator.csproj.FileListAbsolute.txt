@@ -1,0 +1,15 @@
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\6. Jagged Array Manipulator\bin\Debug\net6.0\6. Jagged Array Manipulator.exe
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\6. Jagged Array Manipulator\bin\Debug\net6.0\6. Jagged Array Manipulator.deps.json
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\6. Jagged Array Manipulator\bin\Debug\net6.0\6. Jagged Array Manipulator.runtimeconfig.json
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\6. Jagged Array Manipulator\bin\Debug\net6.0\6. Jagged Array Manipulator.dll
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\6. Jagged Array Manipulator\bin\Debug\net6.0\6. Jagged Array Manipulator.pdb
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\6. Jagged Array Manipulator\obj\Debug\net6.0\6. Jagged Array Manipulator.csproj.AssemblyReference.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\6. Jagged Array Manipulator\obj\Debug\net6.0\6. Jagged Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\6. Jagged Array Manipulator\obj\Debug\net6.0\6. Jagged Array Manipulator.AssemblyInfoInputs.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\6. Jagged Array Manipulator\obj\Debug\net6.0\6. Jagged Array Manipulator.AssemblyInfo.cs
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\6. Jagged Array Manipulator\obj\Debug\net6.0\6. Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\6. Jagged Array Manipulator\obj\Debug\net6.0\6. Jagged Array Manipulator.dll
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\6. Jagged Array Manipulator\obj\Debug\net6.0\refint\6. Jagged Array Manipulator.dll
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\6. Jagged Array Manipulator\obj\Debug\net6.0\6. Jagged Array Manipulator.pdb
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\6. Jagged Array Manipulator\obj\Debug\net6.0\6. Jagged Array Manipulator.genruntimeconfig.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\6. Jagged Array Manipulator\obj\Debug\net6.0\ref\6. Jagged Array Manipulator.dll

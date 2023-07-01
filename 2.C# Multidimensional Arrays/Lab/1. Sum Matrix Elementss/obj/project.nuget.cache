@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "op8s9WVj7Xp5+XPkuvbaHt2m4nke19H+8qlpUyW3ynjhA1ScuVXwLg9LqFmbbeGCxHmOs2LeNUdq+rzmatPsMQ==",
+  "success": true,
+  "projectFilePath": "C:\\SoftUni\\C# Advanced Januray 2023\\2.Multidimensional Arrays\\Lab\\1. Sum Matrix Elementss\\1. Sum Matrix Elementss.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

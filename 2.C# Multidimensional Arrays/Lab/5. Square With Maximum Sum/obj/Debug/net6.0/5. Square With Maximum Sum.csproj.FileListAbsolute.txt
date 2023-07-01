@@ -1,0 +1,15 @@
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\5. Square With Maximum Sum\bin\Debug\net6.0\5. Square With Maximum Sum.exe
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\5. Square With Maximum Sum\bin\Debug\net6.0\5. Square With Maximum Sum.deps.json
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\5. Square With Maximum Sum\bin\Debug\net6.0\5. Square With Maximum Sum.runtimeconfig.json
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\5. Square With Maximum Sum\bin\Debug\net6.0\5. Square With Maximum Sum.dll
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\5. Square With Maximum Sum\bin\Debug\net6.0\5. Square With Maximum Sum.pdb
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\5. Square With Maximum Sum\obj\Debug\net6.0\5. Square With Maximum Sum.csproj.AssemblyReference.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\5. Square With Maximum Sum\obj\Debug\net6.0\5. Square With Maximum Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\5. Square With Maximum Sum\obj\Debug\net6.0\5. Square With Maximum Sum.AssemblyInfoInputs.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\5. Square With Maximum Sum\obj\Debug\net6.0\5. Square With Maximum Sum.AssemblyInfo.cs
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\5. Square With Maximum Sum\obj\Debug\net6.0\5. Square With Maximum Sum.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\5. Square With Maximum Sum\obj\Debug\net6.0\5. Square With Maximum Sum.dll
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\5. Square With Maximum Sum\obj\Debug\net6.0\refint\5. Square With Maximum Sum.dll
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\5. Square With Maximum Sum\obj\Debug\net6.0\5. Square With Maximum Sum.pdb
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\5. Square With Maximum Sum\obj\Debug\net6.0\5. Square With Maximum Sum.genruntimeconfig.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\5. Square With Maximum Sum\obj\Debug\net6.0\ref\5. Square With Maximum Sum.dll

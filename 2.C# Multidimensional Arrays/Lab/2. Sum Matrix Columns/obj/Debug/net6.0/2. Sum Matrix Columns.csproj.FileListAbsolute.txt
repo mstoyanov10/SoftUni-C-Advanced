@@ -1,0 +1,15 @@
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\2. Sum Matrix Columns\bin\Debug\net6.0\2. Sum Matrix Columns.exe
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\2. Sum Matrix Columns\bin\Debug\net6.0\2. Sum Matrix Columns.deps.json
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\2. Sum Matrix Columns\bin\Debug\net6.0\2. Sum Matrix Columns.runtimeconfig.json
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\2. Sum Matrix Columns\bin\Debug\net6.0\2. Sum Matrix Columns.dll
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\2. Sum Matrix Columns\bin\Debug\net6.0\2. Sum Matrix Columns.pdb
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.csproj.AssemblyReference.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.AssemblyInfo.cs
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.dll
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\2. Sum Matrix Columns\obj\Debug\net6.0\refint\2. Sum Matrix Columns.dll
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.pdb
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.genruntimeconfig.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\2. Sum Matrix Columns\obj\Debug\net6.0\ref\2. Sum Matrix Columns.dll

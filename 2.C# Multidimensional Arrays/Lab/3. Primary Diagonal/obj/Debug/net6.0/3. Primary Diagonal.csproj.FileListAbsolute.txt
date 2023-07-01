@@ -1,0 +1,15 @@
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\3. Primary Diagonal\bin\Debug\net6.0\3. Primary Diagonal.exe
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\3. Primary Diagonal\bin\Debug\net6.0\3. Primary Diagonal.deps.json
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\3. Primary Diagonal\bin\Debug\net6.0\3. Primary Diagonal.runtimeconfig.json
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\3. Primary Diagonal\bin\Debug\net6.0\3. Primary Diagonal.dll
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\3. Primary Diagonal\bin\Debug\net6.0\3. Primary Diagonal.pdb
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.csproj.AssemblyReference.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.AssemblyInfoInputs.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.AssemblyInfo.cs
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.dll
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\3. Primary Diagonal\obj\Debug\net6.0\refint\3. Primary Diagonal.dll
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.pdb
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.genruntimeconfig.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Lab\3. Primary Diagonal\obj\Debug\net6.0\ref\3. Primary Diagonal.dll

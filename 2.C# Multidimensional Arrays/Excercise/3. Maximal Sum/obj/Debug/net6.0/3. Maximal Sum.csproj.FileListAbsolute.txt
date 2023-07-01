@@ -1,0 +1,15 @@
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.exe
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.deps.json
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.runtimeconfig.json
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.dll
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.pdb
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.csproj.AssemblyReference.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.AssemblyInfoInputs.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.AssemblyInfo.cs
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.dll
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\3. Maximal Sum\obj\Debug\net6.0\refint\3. Maximal Sum.dll
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.pdb
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.genruntimeconfig.cache
+C:\SoftUni\C# Advanced Januray 2023\2.Multidimensional Arrays\Excercise\3. Maximal Sum\obj\Debug\net6.0\ref\3. Maximal Sum.dll
